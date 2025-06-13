@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Simple n8n Chat",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["https://n8n.creativenour.tech/"]
+}
